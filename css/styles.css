@@ -20,6 +20,18 @@ h1 {
 
 }
 
+p {
+    color: #8f8f8f;
+    font-size: 1.0rem;
+}
+
+/* h3 {
+    font-family: "Montserrat-Bold";
+
+} */
+
+
+
 button {
     font-family: 'Ubuntu', sans-serif;
     font-weight: 100;
@@ -64,3 +76,27 @@ button {
     width: 60%;
     transform: rotate(25deg);
 }
+
+/* Features Section */
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+/* Icon */
+
+.icon {
+    color:#ef8172;
+    margin-bottom: 1rem;
+
+}
+
+.icon:hover{
+    color:#ff4c68
+}
+
